@@ -67,5 +67,4 @@ Data Engineering Sampling EDA with visualization Model Selection with performanc
 All said and done, Integrity is our character, and Transparency is our strength! Only Solo teams are welcome Apply yourself! Have fun!
 
 ## Archive
-* 2024 
-  * [Data Challenge competition](https://www.kaggle.com/competitions/da5401-2024-ml-challenge)
+* 2024: [Data Challenge competition](https://www.kaggle.com/competitions/da5401-2024-ml-challenge)
